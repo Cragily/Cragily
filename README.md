@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cragily
+- 👋 Hi, I’m @Sajal Pathak
 - 👀 I’m interested in JAVA
 - 🌱 I’m currently learning JAVASCRIPT
 - 💞️ I’m looking to collaborate on JAVA BASED DESKTOP GUI APPLICATIONS
